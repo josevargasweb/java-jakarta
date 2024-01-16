@@ -1,0 +1,5 @@
+org\vargas\java\jdbc\util\ConexionBaseDatos.class
+org\vargas\java\jdbc\EjemploJdbc.class
+org\vargas\java\jdbc\modelo\Producto.class
+org\vargas\java\jdbc\repositorio\Repositorio.class
+org\vargas\java\jdbc\repositorio\ProductoRepositorioImpl.class

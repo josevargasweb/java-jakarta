@@ -1,0 +1,4 @@
+org\vargas\webapp\ejb\controllers\EjemploServlet.class
+org\vargas\webapp\ejb\models\Producto.class
+org\vargas\webapp\ejb\service\ServiceEjbLocal.class
+org\vargas\webapp\ejb\service\ServiceEjb.class
